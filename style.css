@@ -1,0 +1,35 @@
+header{
+    background-image: url('src/pattern.jpeg'); /* Replace 'background.jpg' with the path to your image file */
+    font-size: 100px;
+    color: khaki;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+    
+}
+h2.one{
+    background-color: mediumspringgreen;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
+h2.two{
+    background-color: lightcoral;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+}
+h2.three{
+    background-color: skyblue;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+
+}
